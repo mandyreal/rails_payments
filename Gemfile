@@ -42,6 +42,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+# letter opener
+gem 'letter_opener', group: :development
 # Stripe gem
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 group :development, :test do
