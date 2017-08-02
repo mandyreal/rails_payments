@@ -1,24 +1,5 @@
-# README
+# E-commerce website built in Rails with Stripe Payment
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://ror-payments.herokuapp.com
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Tutorial from this : https://www.youtube.com/watch?v=K-l2XhRyVEo&utm_source=ActiveCampaign&utm_medium=email&utm_content=Advanced+Beginner+Challenge%3A+Ruby+Day+31&utm_campaign=Ruby+Day+31
